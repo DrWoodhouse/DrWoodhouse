@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrWoodhouse
-- 👀 I’m a mathematician moving into the tech industry after a phd and postdocs at McGill, the Technion, and Oxford.
+- 👀 I’m a mathematician moving into the tech industry after a phd at McGill and postdocs at the Technion and The University of Oxford.
      Currently I'm interested in learning about cyber security, cryptography, and artificial intelligence.
      My academic interests lay in a field called geometric group theory, which meant I was a geometer who studied symmetry.
      Previously I contributed code to the FLINT number theory library (written in C) as a summer project as an undergraduate.
